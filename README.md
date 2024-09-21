@@ -4,7 +4,7 @@
 - 💞️ I’m looking for collaborate on Fintech,Open Finance,Blockchain and/or Capital Markets
 
 - Currently I want to be Machine Learning Engineer and develop Fullsatack data science projects.
-- I'm learning about Airflow, Spark and Deep Learning.
+- I'm learning about  Spark and Deep Learning.
 
 I invite you to watch my profile,it is in build yet.
 I'm pushing old projects to my Github
